@@ -9,7 +9,8 @@ PyTorch-YOLOv1-ongoing
   * CPU
   * openCV 4.1.0
   * python 3.7
-  * PyTorch 1.1.0
+  * PyTorch 1.1.0 
+  * Visdom 0.1.8.8
   
 
   
